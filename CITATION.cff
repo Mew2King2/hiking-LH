@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Horan"
+  given-names: "Lansing"
+  orcid: "https://orcid.org/0000-0003-0933-4026"
+title: "hiking-LH"
+version: 1.0.0
+doi: N/A
+date-released: 2025-01-15
+url: "https://github.com/Mew2King2/hiking-LH"
