@@ -1,0 +1,4 @@
+'ello guv'na
+Tis me, Lansing
+I'm typing a new text file right here, in nano, right now
+# comment convention
